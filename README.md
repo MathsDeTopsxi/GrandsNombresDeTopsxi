@@ -16,3 +16,9 @@ La démonstration formelle, venue plus tard, fait l'objet d'un document différe
 
 ### Le monde des öhskiennes
 *Cette théorie est en cours d'élaboration et de développement. Restez connectés !*
+
+
+*Info*
+| Première idée du concept | mars 2024 (ancien sujet de Grand Oral *(C)*) |
+| Version finale des règles | 14 février 2026 |
+| Démonstration de la conjecture du Trois Parfait | 10 juillet 2026 |
